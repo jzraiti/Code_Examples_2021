@@ -1,7 +1,7 @@
 # Code_Examples_2021
 Assorted code projects from 2021
 
-##PCA_Faces_Github
+## PCA_Faces_Github
 Use Principal Component Analysis to conduct facial recognition.
 
 Use the archive folder as a data set of images: 40 faces , 10 images per face.
