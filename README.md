@@ -13,3 +13,5 @@ Requires:
 matplotlib
 PIL
 numpy 
+![Alt text](PCA_Faces_Github/acc_vs_basis.png?raw=true "Accuracy of Facial Recognition vs Number of Eigen Vectors in Basis Set")
+
