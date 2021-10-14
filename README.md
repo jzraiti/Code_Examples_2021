@@ -1,5 +1,5 @@
 # Code_Examples_2021
-Assorted code projects from 2021
+Assorted code projects from 2021 by Jason Raiti
 
 ## PCA_Faces_Github
 Use Principal Component Analysis to conduct facial recognition.
