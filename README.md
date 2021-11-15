@@ -17,3 +17,11 @@ numpy
 
 ![Alt text](PCA_Faces_Github/acc_vs_basis.png?raw=true "Accuracy of Facial Recognition vs Number of Eigen Vectors in Basis Set")
 
+
+## Pytorch_NN
+Use Pytorch to set up a template for a single hidden layer NN.
+
+Train the NN on an arbitrary function
+
+Estimate the predictive precision of the resulting model
+
